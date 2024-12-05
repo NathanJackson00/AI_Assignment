@@ -1,1 +1,3 @@
 # AI_Assignment
+For this assignment I used ChatGPT model 4o mini to reproduce an assignment that we did in class earlier in the semester. The notebook contains both the prompts given to ChatGPT and the code produced by the AI in responce to the prompts. The prompts given will all be in markdown cells and the cell immediately under will be the AI returned prompt from that specific prompt. The overall assignment was looking at credit card data and seeing in we could make a binary classifier from the data that would predict if a credit card transaction was fraud or not based on a variety of different variables. 
+
